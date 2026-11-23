@@ -11,6 +11,6 @@
 
 ## How to Run
 
-Open `index.html` directly in any web browser. or
-Open `https://chm-liyanage.github.io/Second-Look/`
+- Open `index.html` directly in any web browser. or
+- Open `https://chm-liyanage.github.io/Second-Look/`
 
